@@ -1,1 +1,1 @@
-# trabajosSMR
+# Juego-SMR
